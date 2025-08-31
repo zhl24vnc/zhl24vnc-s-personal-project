@@ -48,8 +48,8 @@ By leveraging Unity and the Meta XR framework, players interact with cards natur
 ---
 
 ## 🔧 Requirements
-- Oculus Quest 2 or newer  
-- Unity 2023+ with Meta XR SDK  
+- Oculus Quest   
+- Unity  with Meta XR SDK  
 - Oculus Link / Air Link for testing, or standalone build  
 
 ---
