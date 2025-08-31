@@ -43,16 +43,7 @@ By leveraging Unity and the Meta XR framework, players interact with cards natur
 - **Week 3–4**: VR interaction implementation, fixing pointer precision issues with raycasting.  
 - **Week 5–6**: Graphic enhancement with Blender-edited 3D assets, particles, and shaders.  
 - **Week 6–7**: AI logic integration.  
-- **Week 7–8**: Performance optimization (object pooling, culling, URP fixes).  
-
----
-
-## 📷 Screenshots
-> *(Replace these placeholders with your actual game screenshots)*
-
-| Card Battle Scene | VR Interaction | Special Effects |
-|------------------|----------------|-----------------|
-| ![screenshot1](docs/images/screen1.png) | ![screenshot2](docs/images/screen2.png) | ![screenshot3](docs/images/screen3.png) |
+- **Week 7–8**: Performance optimization (object pooling, culling, URP fixes). 
 
 ---
 
