@@ -1,4 +1,4 @@
-# 🃏 XR Tabletop Card Game (VR)
+# 🃏 XR Card battle  Game (VR)
 
 ![Unity](https://img.shields.io/badge/Engine-Unity%202023+-blue.svg?logo=unity)
 ![Platform](https://img.shields.io/badge/Platform-Oculus%20Quest%202%2B-lightgrey?logo=oculus)
